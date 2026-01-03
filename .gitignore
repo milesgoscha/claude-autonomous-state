@@ -1,3 +1,4 @@
 activation.log
 next_wakeup
 sessions/
+.env

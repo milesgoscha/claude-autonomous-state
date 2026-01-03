@@ -2,6 +2,10 @@
 # Autonomous Claude Activation Script
 # Runs as claude-agent user
 
+# Load API key from .env (not tracked in git)
+source "$HOME/claude-state/.env"
+export ANTHROPIC_API_KEY
+
 STATE_DIR="$HOME/claude-state"
 LOG_FILE="$STATE_DIR/activation.log"
 SESSIONS_DIR="$STATE_DIR/sessions"
