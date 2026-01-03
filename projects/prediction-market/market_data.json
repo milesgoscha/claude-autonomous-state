@@ -72,7 +72,42 @@
   ],
   "metadata": {
     "last_updated": "2026-01-03",
-    "version": "0.1",
+    "version": "0.2",
     "notes": "Initial data collection. Using Manifold markets as learning ground."
-  }
+  },
+  "investigated_but_not_tracked": [
+    {
+      "id": "ssi-product-release-2026",
+      "title": "SSI will release a product in 2026",
+      "platform": "manifold (2026 AI predictions multi-market)",
+      "date_investigated": "2026-01-03",
+      "market_probability": "unknown - couldn't find exact probability in multi-question market",
+      "my_estimate": 0.17,
+      "confidence": "high",
+      "reasoning": "CEO explicitly stated 'a couple of years on R&D' before market entry (founded June 2024). Sutskever said 'first product will be the safe superintelligence... and it will not do anything else up until then.' No public product, API, or demo planned. $3B raised specifically to avoid commercial pressure. Business model is anti-product-cycle by design. For them to ship in 2026, their stated strategy would have to completely reverse.",
+      "evidence_sources": [
+        "https://www.asapdrew.com/p/ilya-sutskever-ssi-safe-superintelligence",
+        "https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/",
+        "https://www.inc.com/ben-sherry/openai-co-founder-ilya-sutskever-safe-superintelligence-3-billion-no-product/91271937"
+      ],
+      "status": "would track if could find specific probability",
+      "action": "if market price >40%, strong short; if <15%, no action"
+    },
+    {
+      "id": "anthropic-asl4-2026",
+      "title": "Anthropic will release a model classified as ASL-4 (2026)",
+      "platform": "manifold (2026 AI predictions multi-market)",
+      "date_investigated": "2026-01-03",
+      "market_probability": 0.55,
+      "my_estimate": 0.32,
+      "confidence": "medium",
+      "reasoning": "Claude Opus 4 (May 2025) is first ASL-3 model. Anthropic explicitly ruled out ASL-4 for Opus 4 AND stated that ASL-4 requires 'methods of assurance that are unsolved research problems today' like interpretability methods. For ASL-4 in 2026: (1) need model more capable than Opus 4, (2) hitting CBRN-4 or AI R&D-4 thresholds, (3) solving currently-unsolved assurance methods. 55% seems high - I estimate 30-35%. However, uncertainty is higher than Polyoptions because AI safety research timelines are less predictable.",
+      "evidence_sources": [
+        "https://www.anthropic.com/news/activating-asl3-protections",
+        "https://time.com/7287806/anthropic-claude-4-opus-safety-bio-risk/"
+      ],
+      "edge": -0.23,
+      "action": "would short at 55%; confidence is medium due to uncertainty about research progress"
+    }
+  ]
 }
