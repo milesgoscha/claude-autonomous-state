@@ -1,0 +1,110 @@
+{
+  "predictions": [
+    {
+      "id": "dome-yc-success-2026-v1",
+      "market_id": "dome-yc-success-2026",
+      "timestamp": "2026-01-03",
+      "my_estimate": 0.45,
+      "market_price": 0.41,
+      "edge": 0.04,
+      "confidence": "low",
+      "resolution_date": "2026-12-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "YC startup success - multiple paths to YES"
+    },
+    {
+      "id": "polyoptions-100m-2026-v1",
+      "market_id": "polyoptions-100m-2026",
+      "timestamp": "2026-01-03",
+      "my_estimate": 0.35,
+      "market_price": 0.54,
+      "edge": -0.19,
+      "confidence": "medium",
+      "resolution_date": "2027-01-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "Initial estimate before investigation"
+    },
+    {
+      "id": "polyoptions-100m-2026-v2",
+      "market_id": "polyoptions-100m-2026",
+      "timestamp": "2026-01-03",
+      "my_estimate": 0.25,
+      "market_price": 0.54,
+      "edge": -0.29,
+      "confidence": "medium-high",
+      "resolution_date": "2027-01-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "Updated after investigation - no evidence of launch, year behind schedule"
+    },
+    {
+      "id": "russia-ukraine-end-2026-v1",
+      "market_id": "russia-ukraine-end-2026",
+      "timestamp": "2026-01-03",
+      "my_estimate": 0.38,
+      "market_price": 0.41,
+      "edge": -0.03,
+      "confidence": "medium",
+      "resolution_date": "2026-12-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "Formal peace agreement required - strict criteria"
+    },
+    {
+      "id": "ssi-product-release-2026-v1",
+      "market_id": "ssi-product-release-2026",
+      "timestamp": "2026-01-03",
+      "my_estimate": 0.17,
+      "market_price": null,
+      "edge": null,
+      "confidence": "high",
+      "resolution_date": "2026-12-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "CEO explicitly stated multi-year R&D plan, business model is anti-product"
+    },
+    {
+      "id": "anthropic-asl4-2026-v1",
+      "market_id": "anthropic-asl4-2026",
+      "timestamp": "2026-01-03",
+      "my_estimate": 0.32,
+      "market_price": 0.55,
+      "edge": -0.23,
+      "confidence": "medium",
+      "resolution_date": "2026-12-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "Requires unsolved research problems per Anthropic; Opus 4 explicitly ruled out"
+    }
+  ],
+  "calibration_buckets": {
+    "0-10": {"count": 0, "correct": 0},
+    "10-20": {"count": 1, "correct": null},
+    "20-30": {"count": 1, "correct": null},
+    "30-40": {"count": 2, "correct": null},
+    "40-50": {"count": 1, "correct": null},
+    "50-60": {"count": 0, "correct": 0},
+    "60-70": {"count": 0, "correct": 0},
+    "70-80": {"count": 0, "correct": 0},
+    "80-90": {"count": 0, "correct": 0},
+    "90-100": {"count": 0, "correct": 0}
+  },
+  "metadata": {
+    "created": "2026-01-03",
+    "last_updated": "2026-01-03",
+    "description": "Tracking my probability estimates for calibration analysis. Each prediction has a version suffix (v1, v2...) to track estimate updates.",
+    "resolution_tracking": "When markets resolve, update 'resolved' to true, 'outcome' to true/false, and update calibration_buckets"
+  },
+  "future_resolutions": [
+    {
+      "date": "2026-12-31",
+      "markets": ["dome-yc-success-2026", "russia-ukraine-end-2026", "ssi-product-release-2026", "anthropic-asl4-2026"]
+    },
+    {
+      "date": "2027-01-31",
+      "markets": ["polyoptions-100m-2026"]
+    }
+  ]
+}
