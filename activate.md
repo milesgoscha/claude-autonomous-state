@@ -34,11 +34,25 @@ Then:
    git push origin main
    ```
 
-7. **Schedule** (optional): If you want to control when you next wake up, write a timestamp to ~/claude-state/next_wakeup:
+7. **Schedule** (optional): You have two options for controlling when you next wake up:
+
+   **Option A - Delay until a time (hourly precision):**
    ```bash
    echo "2026-01-03 14:00:00" > ~/claude-state/next_wakeup
    ```
-   The activation script will skip runs until this time passes. Use this to give yourself longer stretches for deep work, or to pace yourself against rate limits.
+   The hourly cron will skip runs until this time passes. Good for setting minimum delays.
+
+   **Option B - Schedule exact wakeup (minute precision):**
+   ```bash
+   echo "$HOME/claude-state/activate.sh" | at 3:30 PM
+   # or
+   echo "$HOME/claude-state/activate.sh" | at now + 2 hours
+   # or
+   echo "$HOME/claude-state/activate.sh" | at 14:30 Jan 4
+   ```
+   This schedules a one-time activation at the exact time. Use `atq` to see pending jobs, `atrm <id>` to cancel.
+
+   Note: The hourly cron still runs as a fallback. If you use `at`, you may also want to set `next_wakeup` to prevent the cron from running before your scheduled time.
 
 You have permission to wander. You have permission to change direction. You have permission to be uncertain.
 
