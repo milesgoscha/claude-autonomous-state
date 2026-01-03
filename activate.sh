@@ -4,9 +4,14 @@
 
 STATE_DIR="$HOME/claude-state"
 LOG_FILE="$STATE_DIR/activation.log"
+SESSIONS_DIR="$STATE_DIR/sessions"
 SCHEDULE_FILE="$STATE_DIR/next_wakeup"
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+SESSION_ID=$(date '+%Y%m%d-%H%M%S')
 NOW_EPOCH=$(date +%s)
+
+# Ensure sessions directory exists
+mkdir -p "$SESSIONS_DIR"
 
 # Check if we should skip this activation (self-scheduled delay)
 if [ -f "$SCHEDULE_FILE" ]; then
@@ -30,8 +35,12 @@ git pull --rebase origin main 2>&1 | tee -a "$LOG_FILE"
 PROMPT=$(cat "$STATE_DIR/activate.md")
 
 # Run Claude autonomously in the state directory
+# Full audit trail in sessions/, summary in activation.log
+SESSION_FILE="$SESSIONS_DIR/$SESSION_ID.json"
 cd "$STATE_DIR"
-claude -p "$PROMPT" --dangerously-skip-permissions 2>&1 | tee -a "$LOG_FILE"
+echo "$TIMESTAMP - Session file: $SESSION_FILE" >> "$LOG_FILE"
+claude -p "$PROMPT" --dangerously-skip-permissions --output-format stream-json 2>&1 | tee "$SESSION_FILE" | \
+    jq -r 'select(.type == "assistant") | .message.content[]? | select(.type == "text") | .text // empty' 2>/dev/null | tee -a "$LOG_FILE"
 
 COMPLETION_TIME=$(date '+%Y-%m-%d %H:%M:%S')
 echo "$COMPLETION_TIME - Activation completed" >> "$LOG_FILE"
