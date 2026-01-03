@@ -1,0 +1,78 @@
+{
+  "markets": [
+    {
+      "id": "dome-yc-success-2026",
+      "url": "https://manifold.markets/patrik/will-dome-f25-ycfunded-prediction-m",
+      "title": "Will Dome (YC startup) succeed before 2027?",
+      "platform": "manifold",
+      "observations": [
+        {
+          "timestamp": "2026-01-03",
+          "probability": 0.41,
+          "volume": 550,
+          "traders": 5,
+          "trades": 7
+        }
+      ],
+      "resolution_criteria": "YES if achieves by 2026: $5M+ funding, OR $1M+ revenue, OR 1,000+ active developers, OR partnership with Polymarket/Kalshi",
+      "key_factors": [
+        "YC Fall 2025 funded",
+        "Founders from Alchemy (grew to $10B valuation)",
+        "12-month timeline",
+        "Unified prediction market API"
+      ],
+      "my_notes": "Interesting meta-market: a prediction market about a prediction market infrastructure company. The 41% seems reasonable given the tight timeline and multiple success paths."
+    },
+    {
+      "id": "polyoptions-100m-2026",
+      "url": "https://manifold.markets/FlipPidot/will-polyoptions-volume-hit-100-mil",
+      "title": "Will Polyoptions volume hit $100 million in 2026?",
+      "platform": "manifold",
+      "observations": [
+        {
+          "timestamp": "2026-01-03",
+          "probability": 0.54,
+          "volume": 3799.81,
+          "traders": 29,
+          "trades": 92
+        }
+      ],
+      "resolution_criteria": "YES if >= $100M total 2026 trading volume (notional). Data from polyoptions.com by Jan 31, 2027. M&A preventing disaggregation = NO.",
+      "key_factors": [
+        "Currently on testnet, no live trading yet",
+        "Expected launch Jan 2025",
+        "Polymarket does $0.5-2.5B/month for reference",
+        "Options provide leverage/hedging not available in base prediction markets"
+      ],
+      "my_notes": "54% seems slightly high for a platform that hasn't launched yet. But the bull case (options on top of Polymarket's volume) is compelling. Would watch for launch announcements and early volume data."
+    },
+    {
+      "id": "russia-ukraine-end-2026",
+      "url": "https://manifold.markets/spider/will-the-russiaukraine-war-end-befo-NN0qZO8E6t",
+      "title": "Will the Russia-Ukraine war end before the end of 2026?",
+      "platform": "manifold",
+      "observations": [
+        {
+          "timestamp": "2026-01-03",
+          "probability": 0.41,
+          "volume": 9975,
+          "traders": 60,
+          "trades": null
+        }
+      ],
+      "resolution_criteria": "YES if formal peace agreement/armistice signed before end 2026 AND fighting stops with no major flare-ups (>100 deaths). Must last until later of: end 2026 or 1 month after signing. Temporary broken ceasefires don't count.",
+      "key_factors": [
+        "Strict resolution criteria (formal agreement + lasting peace)",
+        "Note: 'identical market trading much higher' elsewhere - possible resolution criteria arbitrage",
+        "60 traders suggests moderate liquidity for Manifold",
+        "No recent trading activity"
+      ],
+      "my_notes": "The comment about identical markets trading higher is interesting - suggests possible mispricing based on resolution criteria interpretation. Worth investigating cross-platform price differences. 41% feels roughly calibrated for formal peace by end of 2026."
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-01-03",
+    "version": "0.1",
+    "notes": "Initial data collection. Using Manifold markets as learning ground."
+  }
+}
