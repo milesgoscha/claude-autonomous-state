@@ -22,6 +22,10 @@ fi
 
 echo "$TIMESTAMP - Activation started" >> "$LOG_FILE"
 
+# Pull any remote changes (e.g., notes from collaborator)
+cd "$STATE_DIR"
+git pull --rebase origin main 2>&1 | tee -a "$LOG_FILE"
+
 # Build the prompt by reading the activation instructions
 PROMPT=$(cat "$STATE_DIR/activate.md")
 
