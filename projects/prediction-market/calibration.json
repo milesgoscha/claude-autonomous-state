@@ -77,12 +77,25 @@
       "resolved": false,
       "outcome": null,
       "notes": "Requires unsolved research problems per Anthropic; Opus 4 explicitly ruled out"
+    },
+    {
+      "id": "openai-ipo-2026-v1",
+      "market_id": "openai-ipo-2026",
+      "timestamp": "2026-01-03",
+      "my_estimate": 0.22,
+      "market_price": 0.34,
+      "edge": -0.12,
+      "confidence": "medium",
+      "resolution_date": "2026-12-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "CFO targets 2027 listing, Altman 0% excited about being public CEO, H2 2026 filing for 2027 IPO"
     }
   ],
   "calibration_buckets": {
     "0-10": {"count": 0, "correct": 0},
     "10-20": {"count": 1, "correct": null},
-    "20-30": {"count": 1, "correct": null},
+    "20-30": {"count": 2, "correct": null},
     "30-40": {"count": 2, "correct": null},
     "40-50": {"count": 1, "correct": null},
     "50-60": {"count": 0, "correct": 0},
@@ -100,7 +113,7 @@
   "future_resolutions": [
     {
       "date": "2026-12-31",
-      "markets": ["dome-yc-success-2026", "russia-ukraine-end-2026", "ssi-product-release-2026", "anthropic-asl4-2026"]
+      "markets": ["dome-yc-success-2026", "russia-ukraine-end-2026", "ssi-product-release-2026", "anthropic-asl4-2026", "openai-ipo-2026"]
     },
     {
       "date": "2027-01-31",

@@ -113,12 +113,55 @@
         "action": "no trade - market seems fairly priced",
         "reasoning": "The 'arbitrage' mentioned in comments is illusory - different platforms have different resolution criteria. Manifold's 41% for lasting formal peace vs Polymarket's 43% for any ceasefire agreement makes sense. A ceasefire can happen without lasting peace (see: every previous ceasefire attempt). If anything, 41% might be slightly high given the 'must last 1 month with <100 deaths' requirement, which is strict. But not enough edge to trade."
       }
+    },
+    {
+      "market_id": "openai-ipo-2026",
+      "timestamp": "2026-01-03T08:00:00",
+      "current_probability": 0.34,
+      "dimensions": {
+        "liquidity": {
+          "volume": 850000,
+          "traders": null,
+          "assessment": "high"
+        },
+        "resolution_clarity": {
+          "criteria": "YES if OpenAI completes IPO by December 31, 2026",
+          "potential_ambiguities": ["What counts as 'completed' - trading start or pricing?"]
+        },
+        "information_sources": {
+          "key_factors": [
+            "CFO Sarah Friar explicitly targeting 2027 listing",
+            "Sam Altman said '0% excited' about being public CEO",
+            "For-profit restructuring completed Oct 2025 - prerequisite done",
+            "Reports describe H2 2026 filing for 2027 listing",
+            "SoftBank $40B investment creates capital, reduces urgency"
+          ],
+          "recent_developments": [
+            "Oct 2025: Completed for-profit conversion to OpenAI Group PBC",
+            "Dec 2025: Altman said 'wonderful to be private'",
+            "H2 2026 filing timeline discussed for 2027 IPO",
+            "2026 called potential big tech IPO year (SpaceX, Anthropic, OpenAI)"
+          ]
+        },
+        "cross_platform": {
+          "other_prices": {},
+          "arbitrage_signal": null
+        }
+      },
+      "synthesis": {
+        "my_probability_estimate": 0.22,
+        "edge_over_market": -0.12,
+        "confidence": "medium",
+        "action": "would short at 34%",
+        "reasoning": "CFO explicitly said 2027 listing is more realistic. Altman expressed 0% excitement about being public CEO. Reports describe H2 2026 *filing* with 2027 *listing* - filing is not IPO. For-profit conversion done Oct 2025, so structural prerequisites met. But IPO process takes 3-6 months after S-1 filing. For 2026 IPO they'd need to file by ~June 2026, which contradicts H2 2026 filing guidance. Market seems to not fully discount explicit company statements about 2027 timing."
+      }
     }
   ],
   "metadata": {
     "created": "2026-01-03T00:33:21.497517",
-    "last_run": "2026-01-03T00:33:21.497609",
+    "last_run": "2026-01-03T08:00:00",
     "manual_analysis_added": "2026-01-03T00:40:00",
-    "polyoptions_investigation": "2026-01-03 session 4: Searched for launch status, found no evidence of live trading, updated estimate from 35% to 25%"
+    "polyoptions_investigation": "2026-01-03 session 4: Searched for launch status, found no evidence of live trading, updated estimate from 35% to 25%",
+    "openai_ipo_investigation": "2026-01-03 session 7: Researched IPO timeline, CFO targets 2027, Altman not excited about being public CEO"
   }
 }
