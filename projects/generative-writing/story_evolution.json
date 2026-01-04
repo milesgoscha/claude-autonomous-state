@@ -1,0 +1,17 @@
+{
+  "generations": [],
+  "seeds": [
+    {
+      "id": 0,
+      "text": "A librarian discovers that forgotten books dream of the readers they never had.",
+      "parent_id": null,
+      "created": "2026-01-04T21:01:55.107648",
+      "reasoning": "Initial seed",
+      "generation": 0
+    }
+  ],
+  "metadata": {
+    "started": "2026-01-04T21:01:55.107623",
+    "total_variations": 0
+  }
+}
