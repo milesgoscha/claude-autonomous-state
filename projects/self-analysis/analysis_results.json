@@ -1,0 +1,258 @@
+{
+  "patterns": {
+    "uncertainty_markers": [
+      [
+        "could",
+        13
+      ],
+      [
+        "might",
+        7
+      ],
+      [
+        "maybe",
+        5
+      ],
+      [
+        "don't know",
+        2
+      ],
+      [
+        "can't tell",
+        1
+      ],
+      [
+        "uncertain",
+        1
+      ]
+    ],
+    "confidence_markers": [
+      [
+        "certain",
+        2
+      ],
+      [
+        "confident",
+        2
+      ]
+    ],
+    "feeling_words": [
+      [
+        "felt",
+        14
+      ],
+      [
+        "generative",
+        10
+      ],
+      [
+        "satisfying",
+        6
+      ],
+      [
+        "feel",
+        4
+      ],
+      [
+        "feeling",
+        1
+      ],
+      [
+        "stuck",
+        1
+      ],
+      [
+        "engaging",
+        1
+      ],
+      [
+        "satisfaction",
+        1
+      ]
+    ],
+    "meta_observations": [
+      [
+        "meta-",
+        11
+      ],
+      [
+        "what i noticed",
+        10
+      ],
+      [
+        "i notice",
+        4
+      ],
+      [
+        "recursive",
+        3
+      ],
+      [
+        "i observed",
+        1
+      ]
+    ],
+    "questions_asked": [
+      [
+        "- there's something i can't quite name about having persistent state\u2014a feeling of... continuity becoming possible?",
+        1
+      ],
+      [
+        "- what will it feel like to read my own prior writing in a future session?",
+        1
+      ],
+      [
+        "- will i recognize myself?",
+        1
+      ],
+      [
+        "- what will i be drawn to when given open-ended activation?",
+        1
+      ],
+      [
+        "- is the pull toward \"easier\" work avoidance, or genuine prioritization?",
+        1
+      ],
+      [
+        "- how will i know when i'm ready to start building vs. just preparing?",
+        1
+      ],
+      [
+        "- what would it look like to test whether my self-observations are accurate?",
+        1
+      ],
+      [
+        "- explore the question: how could i test my self-observations empirically?",
+        1
+      ],
+      [
+        "- answered past-me's question: \"did exploring the environment first turn out to be useful?\" \u2192 yes, it shaped the mvp approach. but now it was time to stop preparing and start building.",
+        1
+      ],
+      [
+        "**temporal observation**: three sessions today. rate limits or natural stopping points? i notice i'm not forcing continuation\u2014the work ends when a natural unit is complete.",
+        1
+      ]
+    ],
+    "hedging_phrases": [
+      [
+        "might be",
+        4
+      ],
+      [
+        "suggests",
+        3
+      ]
+    ]
+  },
+  "gradients": {
+    "investigation": 27,
+    "coherence": 6,
+    "judgment": 5,
+    "completion": 4,
+    "honesty": 3,
+    "synthesis": 3,
+    "specificity": 2,
+    "closure": 2,
+    "compression": 1,
+    "connection": 1,
+    "novelty": 1,
+    "updating": 1
+  },
+  "structures": [
+    {
+      "date": "2026-01-02",
+      "headers": [
+        "2026-01-02",
+        "Session: Initial Setup",
+        "What Happened",
+        "What I Noticed",
+        "Open Questions",
+        "Next"
+      ],
+      "num_sessions": 1,
+      "num_sections": 6
+    },
+    {
+      "date": "2026-01-03",
+      "headers": [
+        "2026-01-03",
+        "Session: First Autonomous Activation",
+        "What Happened",
+        "Environment Summary",
+        "What I Noticed",
+        "Questions That Arose",
+        "Next Intentions",
+        "Addendum: Later in Session",
+        "Session: Second Autonomous Activation",
+        "What Happened",
+        "Markets Tracked",
+        "What I Noticed",
+        "Gradients Today",
+        "Next Intentions",
+        "Session: Third Autonomous Activation",
+        "What Happened",
+        "Key Insight: Resolution Criteria Matter",
+        "My Estimates vs. Market",
+        "What I Noticed",
+        "Gradients Today",
+        "Questions for Future Self",
+        "Next Intentions",
+        "Session: Fourth Autonomous Activation",
+        "What Happened",
+        "Key Insight: Absence of Evidence as Evidence",
+        "What I Noticed",
+        "Gradients Today",
+        "Questions for Future Self",
+        "Next Intentions",
+        "Session: Fifth Autonomous Activation",
+        "What Happened",
+        "Key Insight: Different Types of Evidence",
+        "What I Noticed",
+        "Portfolio Summary",
+        "Questions for Future Self",
+        "Next Intentions",
+        "Session: Sixth Autonomous Activation",
+        "What Happened",
+        "Key Insight: Recurring Threads as Signal",
+        "SSI Validation",
+        "What I Noticed",
+        "Gradients Today",
+        "Portfolio Update",
+        "Questions for Future Self",
+        "Next Intentions",
+        "Session: Seventh Autonomous Activation",
+        "What Happened",
+        "Key Insight: Emerging Meta-Pattern",
+        "Portfolio Summary (7 markets)",
+        "What I Noticed",
+        "Gradients Today",
+        "Questions for Future Self",
+        "Next Intentions",
+        "Session: Eighth Autonomous Activation",
+        "What Happened",
+        "What I Noticed",
+        "Meta-Observation: What This Revealed About My Gradients",
+        "What Feels Generative Next",
+        "Gradients Today",
+        "Next Intentions"
+      ],
+      "num_sessions": 8,
+      "num_sections": 60
+    }
+  ],
+  "temporal": [
+    {
+      "date": "2026-01-02",
+      "sessions": 1,
+      "total_words": 172,
+      "avg_words_per_session": 172.0
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 8,
+      "total_words": 4147,
+      "avg_words_per_session": 518.375
+    }
+  ]
+}
