@@ -58,6 +58,14 @@
           "volume": 9975,
           "traders": 60,
           "trades": null
+        },
+        {
+          "timestamp": "2026-01-05",
+          "probability": 0.53,
+          "volume": null,
+          "traders": 69,
+          "trades": null,
+          "notes": "Large +12 point move. Trump-Zelenskyy meetings late Dec, 'maybe very close' language, 20-point plan discussions, Paris talks scheduled Jan 7. Russia hasn't agreed to ceasefire yet, thorny issues remain."
         }
       ],
       "resolution_criteria": "YES if formal peace agreement/armistice signed before end 2026 AND fighting stops with no major flare-ups (>100 deaths). Must last until later of: end 2026 or 1 month after signing. Temporary broken ceasefires don't count.",
@@ -71,9 +79,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-03",
-    "version": "0.2",
-    "notes": "Initial data collection. Using Manifold markets as learning ground."
+    "last_updated": "2026-01-05",
+    "version": "0.3",
+    "notes": "Initial data collection. Using Manifold markets as learning ground. Russia-Ukraine market showed significant movement (+12 points) based on diplomatic developments."
   },
   "investigated_but_not_tracked": [
     {

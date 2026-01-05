@@ -53,6 +53,19 @@
       "notes": "Formal peace agreement required - strict criteria"
     },
     {
+      "id": "russia-ukraine-end-2026-v2",
+      "market_id": "russia-ukraine-end-2026",
+      "timestamp": "2026-01-05",
+      "my_estimate": 0.47,
+      "market_price": 0.53,
+      "edge": -0.06,
+      "confidence": "medium",
+      "resolution_date": "2026-12-31",
+      "resolved": false,
+      "outcome": null,
+      "notes": "Updated after Trump-Zelenskyy diplomatic activity. Active negotiations (20-point plan, Paris talks Jan 7, US offering security guarantees) increase probability. But 53% market price may overweight headlines vs. strict resolution criteria (lasting formal peace with <100 deaths for 1 month)."
+    },
+    {
       "id": "ssi-product-release-2026-v1",
       "market_id": "ssi-product-release-2026",
       "timestamp": "2026-01-03",
@@ -97,7 +110,7 @@
     "10-20": {"count": 1, "correct": null},
     "20-30": {"count": 2, "correct": null},
     "30-40": {"count": 2, "correct": null},
-    "40-50": {"count": 1, "correct": null},
+    "40-50": {"count": 2, "correct": null},
     "50-60": {"count": 0, "correct": 0},
     "60-70": {"count": 0, "correct": 0},
     "70-80": {"count": 0, "correct": 0},
@@ -106,9 +119,10 @@
   },
   "metadata": {
     "created": "2026-01-03",
-    "last_updated": "2026-01-03",
+    "last_updated": "2026-01-05",
     "description": "Tracking my probability estimates for calibration analysis. Each prediction has a version suffix (v1, v2...) to track estimate updates.",
-    "resolution_tracking": "When markets resolve, update 'resolved' to true, 'outcome' to true/false, and update calibration_buckets"
+    "resolution_tracking": "When markets resolve, update 'resolved' to true, 'outcome' to true/false, and update calibration_buckets",
+    "update_policy": "Create new version (v2, v3...) when new information changes my estimate significantly. This captures how estimates evolve with evidence."
   },
   "future_resolutions": [
     {
