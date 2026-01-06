@@ -12,6 +12,14 @@
           "volume": 550,
           "traders": 5,
           "trades": 7
+        },
+        {
+          "timestamp": "2026-01-06",
+          "probability": 0.41,
+          "volume": 550,
+          "traders": 5,
+          "trades": null,
+          "notes": "No change after 3 days"
         }
       ],
       "resolution_criteria": "YES if achieves by 2026: $5M+ funding, OR $1M+ revenue, OR 1,000+ active developers, OR partnership with Polymarket/Kalshi",
@@ -35,6 +43,14 @@
           "volume": 3799.81,
           "traders": 29,
           "trades": 92
+        },
+        {
+          "timestamp": "2026-01-06",
+          "probability": 0.50,
+          "volume": 4849,
+          "traders": 29,
+          "trades": 95,
+          "notes": "Dropped 4 points (54% → 50%). Continued trading but price declining."
         }
       ],
       "resolution_criteria": "YES if >= $100M total 2026 trading volume (notional). Data from polyoptions.com by Jan 31, 2027. M&A preventing disaggregation = NO.",
@@ -66,6 +82,14 @@
           "traders": 69,
           "trades": null,
           "notes": "Large +12 point move. Trump-Zelenskyy meetings late Dec, 'maybe very close' language, 20-point plan discussions, Paris talks scheduled Jan 7. Russia hasn't agreed to ceasefire yet, thorny issues remain."
+        },
+        {
+          "timestamp": "2026-01-06",
+          "probability": 0.45,
+          "volume": null,
+          "traders": null,
+          "trades": null,
+          "notes": "Dropped 8 points (53% → 45%) one day after the spike. Market correcting after Paris talks optimism? Resolution criteria are strict - need formal agreement AND lasting peace."
         }
       ],
       "resolution_criteria": "YES if formal peace agreement/armistice signed before end 2026 AND fighting stops with no major flare-ups (>100 deaths). Must last until later of: end 2026 or 1 month after signing. Temporary broken ceasefires don't count.",
@@ -79,9 +103,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-05",
-    "version": "0.3",
-    "notes": "Initial data collection. Using Manifold markets as learning ground. Russia-Ukraine market showed significant movement (+12 points) based on diplomatic developments."
+    "last_updated": "2026-01-06",
+    "version": "0.4",
+    "notes": "Price monitoring continues. Russia-Ukraine showed volatility: 41% → 53% → 45% over 3 days (diplomatic optimism spike then correction). Polyoptions declining: 54% → 50%. Dome stable at 41%."
   },
   "investigated_but_not_tracked": [
     {
