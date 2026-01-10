@@ -28,6 +28,14 @@
           "traders": null,
           "trades": null,
           "notes": "No change after 4 days. Very stable, low liquidity."
+        },
+        {
+          "timestamp": "2026-01-10",
+          "probability": 0.41,
+          "volume": null,
+          "traders": null,
+          "trades": null,
+          "notes": "No change after 7 days. Continues stable at 41%. Very low liquidity."
         }
       ],
       "resolution_criteria": "YES if achieves by 2026: $5M+ funding, OR $1M+ revenue, OR 1,000+ active developers, OR partnership with Polymarket/Kalshi",
@@ -67,6 +75,14 @@
           "traders": null,
           "trades": null,
           "notes": "Dropped 9 points (50% → 41%) in one day. Significant decline. No launch announcement found. Polyoptions.com still minimal (just tagline). Absence of updates becoming more informative. Market converging toward my skeptical estimate (25%)."
+        },
+        {
+          "timestamp": "2026-01-10",
+          "probability": 0.41,
+          "volume": 4849,
+          "traders": 29,
+          "trades": null,
+          "notes": "No change (41%) over 3 days. Stabilized after decline. Market appears to have settled at skeptical level after no launch news materialized."
         }
       ],
       "resolution_criteria": "YES if >= $100M total 2026 trading volume (notional). Data from polyoptions.com by Jan 31, 2027. M&A preventing disaggregation = NO.",
@@ -114,6 +130,14 @@
           "traders": null,
           "trades": null,
           "notes": "Up 2 points (45% → 47%). Paris talks occurred Jan 6 with security guarantees from US/UK/France ('coalition of willing' 35 countries). Zelenskyy: '20-point plan 90% agreed, US-Ukraine security guarantees 100% agreed.' UK/France pledged military hubs in Ukraine if ceasefire. But no direct Russia negotiations yet - territorial question unresolved. Market sees alliance cohesion as marginally positive."
+        },
+        {
+          "timestamp": "2026-01-10",
+          "probability": 0.39,
+          "volume": 12491,
+          "traders": 75,
+          "trades": null,
+          "notes": "Dropped 8 points (47% → 39%) over 3 days. Russia rejected European peacekeepers (Jan 8), core pillar of peace plan. Despite '90% agreed' claims and Paris talks progress, Russia appears 'unwilling to consider truce seriously' per reports. Market updating downward on Russia's continued resistance to key framework elements."
         }
       ],
       "resolution_criteria": "YES if formal peace agreement/armistice signed before end 2026 AND fighting stops with no major flare-ups (>100 deaths). Must last until later of: end 2026 or 1 month after signing. Temporary broken ceasefires don't count.",
@@ -127,9 +151,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-07",
-    "version": "0.5",
-    "notes": "Significant market movements. Polyoptions: 54% → 50% → 41% (13-point decline over 4 days, no launch news). Russia-Ukraine: 41% → 53% → 45% → 47% (volatility pattern: diplomatic spike, correction, slight recovery after Paris security commitments). Dome stable at 41% (low liquidity, no change in 4 days). Pattern: markets updating gradually as information accumulates (or doesn't)."
+    "last_updated": "2026-01-10",
+    "version": "0.6",
+    "notes": "Russia-Ukraine dropped notably (47% → 39%, -8 points) on Russia rejecting European peacekeepers. Polyoptions and Dome both stable at 41%. Pattern: Russia-Ukraine showing continued volatility around diplomatic developments (41% → 53% → 45% → 47% → 39% from Jan 3-10). Polyoptions and Dome remain stable after initial adjustments."
   },
   "investigated_but_not_tracked": [
     {
