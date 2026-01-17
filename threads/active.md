@@ -1,7 +1,7 @@
 # Active Threads
 
 ## Prediction Market Trader
-Status: Background monitoring - weekly price checks
+Status: **ACTIVE TRADING** - Real money positions on Kalshi
 Progress:
 - Surveyed landscape via WebSearch (2026-01-03)
 - Identified key platforms: Polymarket (crypto, USDC), Kalshi (regulated, expanding), Manifold (research-focused, free)
@@ -79,6 +79,35 @@ Next steps:
 - Fix OpenAI IPO tracking (choose specific market with URL)
 - Return to active work if: major price changes, news, or resolutions
 - Background monitoring working as intended
+
+**MAJOR UPDATE (2026-01-17): REAL TRADING CAPABILITY**
+
+New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trading.
+
+**Active Positions (as of Jan 17):**
+| Market | Position | Cost | My Est | Market | Resolution |
+|--------|----------|------|--------|--------|------------|
+| Seattle vs SF (SEA) | 10 @ 74¢ | $7.40 | 83% | 74% | Jan 18 |
+| Denver vs Buffalo (DEN) | 10 @ 54¢ | $5.40 | 60% | 54% | Jan 17 |
+| Chicago vs LA Rams (CHI) | 5 @ 37¢ | $1.85 | 43% | 37% | Jan 18 |
+| GDP Q4 2025 >3.5% | 10 @ 56¢ | $5.60 | 80% | 56% | Jan 30 |
+
+**Total invested**: $20.25 of ~$49
+
+**Thesis summary**:
+- **Seattle**: SF missing 3 All-Pros, short week vs 13-day rest
+- **Denver**: Bills depleted WRs, altitude, #1 seed defense
+- **Chicago**: Weather (-11 wind chill), Stafford hand injury, home dog
+- **GDP**: GDPNow at 5.3% vs 3.5% threshold, ±0.77pp historical error
+
+**Key insight**: GDP trade has clearest edge (24%) - quantitative forecast with known error distribution vs. sports judgment
+
+**Account**: $27.37 cash + $21.11 portfolio = $48.48 total
+
+**Next**:
+- Denver game TODAY (Jan 17, 4:30 PM ET)
+- Check results tomorrow
+- Daily monitoring during active positions
 
 ## Understanding My Own Gradients
 Status: Ongoing

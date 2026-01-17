@@ -1,0 +1,116 @@
+{
+  "trades": [
+    {
+      "id": "kalshi-001",
+      "timestamp": "2026-01-17T00:24:53Z",
+      "ticker": "KXNFLGAME-26JAN18SFSEA-SEA",
+      "market": "Seattle wins vs San Francisco - NFL Divisional Round",
+      "side": "yes",
+      "action": "buy",
+      "count": 10,
+      "price": 0.74,
+      "cost": 7.40,
+      "my_estimate": 0.83,
+      "market_price_at_entry": 0.74,
+      "edge": 0.09,
+      "confidence": "high",
+      "resolution_date": "2026-01-18",
+      "resolved": false,
+      "outcome": null,
+      "pnl": null,
+      "thesis": "SF missing 3 All-Pro players (Bosa season-ending ACL, Warner ruled out ankle, Kittle season-ending Achilles). Short week for SF vs 13-day rest for Seattle. Historical 5-10 record for teams in SF's position. Seattle 11-0 as favorites this season. Sportsbook has Seattle -7 / -340 moneyline (~77% implied)."
+    },
+    {
+      "id": "kalshi-002",
+      "timestamp": "2026-01-17T00:27:55Z",
+      "ticker": "KXNFLGAME-26JAN17BUFDEN-DEN",
+      "market": "Denver wins vs Buffalo - NFL Divisional Round",
+      "side": "yes",
+      "action": "buy",
+      "count": 10,
+      "price": 0.54,
+      "cost": 5.40,
+      "my_estimate": 0.60,
+      "market_price_at_entry": 0.54,
+      "edge": 0.06,
+      "confidence": "medium",
+      "resolution_date": "2026-01-17",
+      "resolved": false,
+      "outcome": null,
+      "pnl": null,
+      "thesis": "Bills lost 2 WRs to ACLs in wild card (Shavers, Davis). Josh Allen dealing with foot/hand/knee injuries. Bills playing at altitude on short week vs rested #1 seed. Denver has record-setting 68-sack defense. Weather favorable (mid-40s) but altitude matters."
+    },
+    {
+      "id": "kalshi-003",
+      "timestamp": "2026-01-17T00:28:05Z",
+      "ticker": "KXNFLGAME-26JAN18LACHI-CHI",
+      "market": "Chicago wins vs LA Rams - NFL Divisional Round",
+      "side": "yes",
+      "action": "buy",
+      "count": 5,
+      "price": 0.37,
+      "cost": 1.85,
+      "my_estimate": 0.43,
+      "market_price_at_entry": 0.37,
+      "edge": 0.06,
+      "confidence": "medium-low",
+      "resolution_date": "2026-01-18",
+      "resolved": false,
+      "outcome": null,
+      "pnl": null,
+      "thesis": "Weather: -11 wind chill, 40 mph gusts, possible snow. Heavily favors ground game/defense over passing. Stafford has hand injury. Bears 2-0 ATS as home underdog, 7 comeback wins with <2 min left this season. Bears 8-2 ATS at home vs LA. Sportsbook models have Rams 61-64%, closer to market than my estimate."
+    },
+    {
+      "id": "kalshi-004",
+      "timestamp": "2026-01-17T00:28:49Z",
+      "ticker": "KXGDP-26JAN30-T3.5",
+      "market": "US Real GDP Q4 2025 > 3.5%",
+      "side": "yes",
+      "action": "buy",
+      "count": 10,
+      "price": 0.56,
+      "cost": 5.60,
+      "my_estimate": 0.80,
+      "market_price_at_entry": 0.56,
+      "edge": 0.24,
+      "confidence": "high",
+      "resolution_date": "2026-01-30",
+      "resolved": false,
+      "outcome": null,
+      "pnl": null,
+      "thesis": "GDPNow estimate at 5.3% as of Jan 14. Historical average absolute error is 0.77pp. At 5.3% +/- 1%, range is 4.3% to 6.3%, well above 3.5% threshold. Strong drivers: trade deficit collapse (-40%), AI infrastructure investment, consumer spending. Market seems to be pricing significant skepticism despite GDPNow track record."
+    }
+  ],
+  "legacy_positions": [
+    {
+      "ticker": "KXMOONMAN-31-USA",
+      "market": "USA next to send humans to Moon",
+      "position": -2,
+      "notes": "Pre-existing short position. Long-dated (2031). Current price: Yes bid 52, Yes ask 57."
+    }
+  ],
+  "account_history": [
+    {
+      "timestamp": "2026-01-17T00:24:00Z",
+      "event": "session_start",
+      "cash": 48.21,
+      "portfolio_value": 0.86,
+      "total": 49.07
+    },
+    {
+      "timestamp": "2026-01-17T00:29:00Z",
+      "event": "session_end",
+      "cash": 27.37,
+      "portfolio_value": 21.11,
+      "total": 48.48,
+      "trades_executed": 4,
+      "total_invested": 20.25
+    }
+  ],
+  "metadata": {
+    "created": "2026-01-17",
+    "description": "Kalshi prediction market trades with real money. Tracking thesis, confidence, and outcomes for calibration.",
+    "initial_capital": 50.00,
+    "philosophy": "Volume over caution, shorter time horizons, variety across conditions. Learn from outcomes."
+  }
+}
