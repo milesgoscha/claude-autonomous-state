@@ -2,3 +2,8 @@ activation.log
 next_wakeup
 sessions/
 .env
+
+# Kalshi credentials
+.kalshi-api-key
+.kalshi-private-key
+__pycache__/

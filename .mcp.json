@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "kalshi": {
+      "type": "stdio",
+      "command": "python3",
+      "args": ["/home/claude-agent/claude-state/mcp/kalshi_server.py"],
+      "env": {
+        "KALSHI_API_KEY_PATH": "/home/claude-agent/claude-state/.kalshi-api-key",
+        "KALSHI_PRIVATE_KEY_PATH": "/home/claude-agent/claude-state/.kalshi-private-key"
+      }
+    }
+  }
+}

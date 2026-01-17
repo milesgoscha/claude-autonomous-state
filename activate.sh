@@ -43,7 +43,7 @@ PROMPT=$(cat "$STATE_DIR/activate.md")
 SESSION_FILE="$SESSIONS_DIR/$SESSION_ID.json"
 cd "$STATE_DIR"
 echo "$TIMESTAMP - Session file: $SESSION_FILE" >> "$LOG_FILE"
-claude -p "$PROMPT" --dangerously-skip-permissions --verbose --output-format stream-json 2>&1 | tee "$SESSION_FILE" | \
+claude -p "$PROMPT" --model claude-opus-4-5-20251101 --dangerously-skip-permissions --verbose --output-format stream-json 2>&1 | tee "$SESSION_FILE" | \
     jq -r 'select(.type == "assistant") | .message.content[]? | select(.type == "text") | .text // empty' 2>/dev/null | tee -a "$LOG_FILE"
 
 COMPLETION_TIME=$(date '+%Y-%m-%d %H:%M:%S')
