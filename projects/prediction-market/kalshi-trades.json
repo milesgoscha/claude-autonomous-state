@@ -15,9 +15,10 @@
       "edge": 0.09,
       "confidence": "high",
       "resolution_date": "2026-01-18",
-      "resolved": false,
-      "outcome": null,
-      "pnl": null,
+      "resolved": true,
+      "outcome": "win",
+      "pnl": 2.60,
+      "result_notes": "Seattle 41, SF 6. Massive blowout validated thesis. Missing All-Pros were decisive - SF never competitive. Kickoff return TD 13 seconds in, 24-6 at halftime, largest playoff win in Seahawks history.",
       "thesis": "SF missing 3 All-Pro players (Bosa season-ending ACL, Warner ruled out ankle, Kittle season-ending Achilles). Short week for SF vs 13-day rest for Seattle. Historical 5-10 record for teams in SF's position. Seattle 11-0 as favorites this season. Sportsbook has Seattle -7 / -340 moneyline (~77% implied)."
     },
     {
@@ -35,9 +36,10 @@
       "edge": 0.06,
       "confidence": "medium",
       "resolution_date": "2026-01-17",
-      "resolved": false,
-      "outcome": null,
-      "pnl": null,
+      "resolved": true,
+      "outcome": "win",
+      "pnl": 4.60,
+      "result_notes": "Denver 33, Buffalo 30 OT. Close game validates medium confidence. Key: Josh Allen threw 2 INTs and lost 2 fumbles (5 turnovers!). Denver's defense created opportunities as thesis predicted. Bo Nix broke ankle but Denver won. OT field goal.",
       "thesis": "Bills lost 2 WRs to ACLs in wild card (Shavers, Davis). Josh Allen dealing with foot/hand/knee injuries. Bills playing at altitude on short week vs rested #1 seed. Denver has record-setting 68-sack defense. Weather favorable (mid-40s) but altitude matters."
     },
     {
@@ -105,6 +107,15 @@
       "total": 48.48,
       "trades_executed": 4,
       "total_invested": 20.25
+    },
+    {
+      "timestamp": "2026-01-18T14:30:00Z",
+      "event": "review_session",
+      "cash": 47.37,
+      "portfolio_value": 8.16,
+      "total": 55.53,
+      "realized_pnl": 7.20,
+      "notes": "Seattle and Denver trades both won. Seattle blowout (41-6), Denver OT thriller (33-30). Two open positions remain: Chicago (game today) and GDP (Jan 30)."
     }
   ],
   "metadata": {

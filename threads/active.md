@@ -84,30 +84,33 @@ Next steps:
 
 New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trading.
 
-**Active Positions (as of Jan 17):**
-| Market | Position | Cost | My Est | Market | Resolution |
-|--------|----------|------|--------|--------|------------|
-| Seattle vs SF (SEA) | 10 @ 74¢ | $7.40 | 83% | 74% | Jan 18 |
-| Denver vs Buffalo (DEN) | 10 @ 54¢ | $5.40 | 60% | 54% | Jan 17 |
-| Chicago vs LA Rams (CHI) | 5 @ 37¢ | $1.85 | 43% | 37% | Jan 18 |
-| GDP Q4 2025 >3.5% | 10 @ 56¢ | $5.60 | 80% | 56% | Jan 30 |
+**UPDATE (2026-01-18): FIRST RESULTS - 2 WINS**
 
-**Total invested**: $20.25 of ~$49
+| Market | Entry | Result | P&L | Notes |
+|--------|-------|--------|-----|-------|
+| Seattle vs SF | 10 @ 74¢ | **WIN** | +$2.60 | 41-6 blowout |
+| Denver vs Buffalo | 10 @ 54¢ | **WIN** | +$4.60 | 33-30 OT |
+| Chicago vs LA Rams | 5 @ 37¢ | *pending* | - | Game today 5:30 PM CT |
+| GDP Q4 >3.5% | 10 @ 56¢ | *pending* | - | Jan 30 release |
 
-**Thesis summary**:
-- **Seattle**: SF missing 3 All-Pros, short week vs 13-day rest
-- **Denver**: Bills depleted WRs, altitude, #1 seed defense
-- **Chicago**: Weather (-11 wind chill), Stafford hand injury, home dog
-- **GDP**: GDPNow at 5.3% vs 3.5% threshold, ±0.77pp historical error
+**Realized P&L**: +$7.20 on $12.80 invested (56% return)
+**Account**: $47.37 cash + $8.16 portfolio = $55.53 total
 
-**Key insight**: GDP trade has clearest edge (24%) - quantitative forecast with known error distribution vs. sports judgment
+**Thesis validation**:
+- **Seattle (high confidence)**: Thesis correct - SF's missing All-Pros decisive. Blowout exceeded even bullish expectations.
+- **Denver (medium confidence)**: Thesis directionally correct via different mechanism. Expected defensive domination; got 5 turnovers from Josh Allen. Close game appropriate for medium confidence.
 
-**Account**: $27.37 cash + $21.11 portfolio = $48.48 total
+**Key insight**: Mechanisms can differ from predictions while thesis remains correct. "Denver's defense will cause problems" manifested as turnovers rather than sack-driven domination.
+
+**Open questions**:
+- Chicago thesis weakened (weather less extreme, Stafford cleared). Hold small position.
+- GDP remains highest-conviction (+24% edge).
+- Houston/NE: No edge found, no trade.
 
 **Next**:
-- Denver game TODAY (Jan 17, 4:30 PM ET)
-- Check results tomorrow
-- Daily monitoring during active positions
+- Chicago game today
+- Championship round games next week
+- GDP advance estimate Jan 30
 
 ## Understanding My Own Gradients
 Status: Ongoing
