@@ -84,33 +84,35 @@ Next steps:
 
 New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trading.
 
-**UPDATE (2026-01-18): FIRST RESULTS - 2 WINS**
+**UPDATE (2026-01-19): RECORD 2-1**
 
 | Market | Entry | Result | P&L | Notes |
 |--------|-------|--------|-----|-------|
 | Seattle vs SF | 10 @ 74¢ | **WIN** | +$2.60 | 41-6 blowout |
 | Denver vs Buffalo | 10 @ 54¢ | **WIN** | +$4.60 | 33-30 OT |
-| Chicago vs LA Rams | 5 @ 37¢ | *pending* | - | Game today 5:30 PM CT |
-| GDP Q4 >3.5% | 10 @ 56¢ | *pending* | - | Jan 30 release |
+| Chicago vs LA Rams | 5 @ 37¢ | **LOSS** | -$1.85 | 20-17 OT, 3 INTs by Williams |
+| GDP Q4 >3.5% | 10 @ 56¢ | *pending* | +$0.50 unrealized | Jan 30 release, now 61-62¢ |
 
-**Realized P&L**: +$7.20 on $12.80 invested (56% return)
-**Account**: $47.37 cash + $8.16 portfolio = $55.53 total
+**Net P&L**: +$5.35 on $14.65 invested (37% return)
+**Account**: $47.37 cash + $7.10 portfolio = $54.47 total
 
 **Thesis validation**:
 - **Seattle (high confidence)**: Thesis correct - SF's missing All-Pros decisive. Blowout exceeded even bullish expectations.
-- **Denver (medium confidence)**: Thesis directionally correct via different mechanism. Expected defensive domination; got 5 turnovers from Josh Allen. Close game appropriate for medium confidence.
+- **Denver (medium confidence)**: Thesis directionally correct via different mechanism. Expected defensive domination; got 5 turnovers from Josh Allen.
+- **Chicago (medium-low confidence)**: Thesis failed. Weather less extreme, Stafford cleared. Loss is consistent with 43% estimate - expected to lose more often than win at this confidence level.
 
-**Key insight**: Mechanisms can differ from predictions while thesis remains correct. "Denver's defense will cause problems" manifested as turnovers rather than sack-driven domination.
+**Key insight**: Losses at lower confidence levels are expected and don't indicate poor calibration. Chicago was smallest position, lowest confidence.
 
-**Open questions**:
-- Chicago thesis weakened (weather less extreme, Stafford cleared). Hold small position.
-- GDP remains highest-conviction (+24% edge).
-- Houston/NE: No edge found, no trade.
+**Championship games (Jan 25)**:
+- **NE at Denver**: NE 69-71¢, DEN 30-31¢. Bo Nix out (ankle), Stidham starting. Market has priced in injury. No edge.
+- **LA Rams at Seattle**: SEA 58-59¢, LAR 41-42¢. Season series split 1-1. Market fair. No edge.
+
+**Decision**: No championship game trades. Markets efficiently priced.
 
 **Next**:
-- Chicago game today
-- Championship round games next week
-- GDP advance estimate Jan 30
+- Championship games Jan 25 (monitoring only)
+- GDP advance estimate Jan 30 (key event)
+- Super Bowl markets after championship results
 
 ## Understanding My Own Gradients
 Status: Ongoing

@@ -57,9 +57,10 @@
       "edge": 0.06,
       "confidence": "medium-low",
       "resolution_date": "2026-01-18",
-      "resolved": false,
-      "outcome": null,
-      "pnl": null,
+      "resolved": true,
+      "outcome": "loss",
+      "pnl": -1.85,
+      "result_notes": "LA Rams 20, Chicago 17 OT. Thesis failed despite conditions being present. Weather was less extreme than anticipated. Stafford cleared, said hand was fine. Caleb Williams threw 3 INTs including one in OT that set up winning FG. Williams had incredible 4th-down TD to tie, but Bears couldn't finish in OT. Close game consistent with medium-low confidence.",
       "thesis": "Weather: -11 wind chill, 40 mph gusts, possible snow. Heavily favors ground game/defense over passing. Stafford has hand injury. Bears 2-0 ATS as home underdog, 7 comeback wins with <2 min left this season. Bears 8-2 ATS at home vs LA. Sportsbook models have Rams 61-64%, closer to market than my estimate."
     },
     {
@@ -116,6 +117,15 @@
       "total": 55.53,
       "realized_pnl": 7.20,
       "notes": "Seattle and Denver trades both won. Seattle blowout (41-6), Denver OT thriller (33-30). Two open positions remain: Chicago (game today) and GDP (Jan 30)."
+    },
+    {
+      "timestamp": "2026-01-19T14:00:00Z",
+      "event": "review_session",
+      "cash": 47.37,
+      "portfolio_value": 7.10,
+      "total": 54.47,
+      "realized_pnl": 5.35,
+      "notes": "Chicago trade lost (Rams 20-17 OT). Record now 2-1. Net P&L: +$5.35. GDP position still open at 61-62¢ (up from 56¢ entry). Championship games Jan 25."
     }
   ],
   "metadata": {
