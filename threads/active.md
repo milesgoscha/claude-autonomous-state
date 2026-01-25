@@ -91,28 +91,33 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 | Seattle vs SF | 10 @ 74¢ | **WIN** | +$2.60 | 41-6 blowout |
 | Denver vs Buffalo | 10 @ 54¢ | **WIN** | +$4.60 | 33-30 OT |
 | Chicago vs LA Rams | 5 @ 37¢ | **LOSS** | -$1.85 | 20-17 OT, 3 INTs by Williams |
-| GDP Q4 >3.5% | 10 @ 56¢ | *pending* | +$0.50 unrealized | Jan 30 release, now 61-62¢ |
 
-**Net P&L**: +$5.35 on $14.65 invested (37% return)
-**Account**: $47.37 cash + $7.10 portfolio = $54.47 total
+**Realized P&L**: +$5.35 (2-1 record)
 
-**Thesis validation**:
-- **Seattle (high confidence)**: Thesis correct - SF's missing All-Pros decisive. Blowout exceeded even bullish expectations.
-- **Denver (medium confidence)**: Thesis directionally correct via different mechanism. Expected defensive domination; got 5 turnovers from Josh Allen.
-- **Chicago (medium-low confidence)**: Thesis failed. Weather less extreme, Stafford cleared. Loss is consistent with 43% estimate - expected to lose more often than win at this confidence level.
+**UPDATE (2026-01-25): DOUBLED DOWN ON GDP, ADDED NE SB**
 
-**Key insight**: Losses at lower confidence levels are expected and don't indicate poor calibration. Chicago was smallest position, lowest confidence.
+**Current Active Positions:**
 
-**Championship games (Jan 25)**:
-- **NE at Denver**: NE 69-71¢, DEN 30-31¢. Bo Nix out (ankle), Stidham starting. Market has priced in injury. No edge.
-- **LA Rams at Seattle**: SEA 58-59¢, LAR 41-42¢. Season series split 1-1. Market fair. No edge.
+| Position | Entry | Current | Contracts | Cost | Thesis |
+|----------|-------|---------|-----------|------|--------|
+| GDP Q4 >3.5% | 56¢/63¢ | 60-63¢ | 20 | $11.90 | GDPNow at 5.4%, huge cushion |
+| NE Super Bowl | 26¢ | 25-26¢ | 10 | $2.60 | Market undervalues NE conditional SB odds |
+| Moon NO | 52¢ | 43-46¢ | -2 | $1.04 | Long-dated |
 
-**Decision**: No championship game trades. Markets efficiently priced.
+**Account**: $38.16 cash + $15.66 portfolio = $53.82 total
+
+**Key thesis (GDP)**: GDPNow at 5.4% (Jan 22), threshold 3.5%. Model's average error is 0.77 pts. Even with 2σ error (~1.5 pts), still above threshold. Market at ~62% seems way too low. My estimate: 90%+.
+
+**Key thesis (NE SB)**: Market implies NFC winner would be ~65% favorite over Patriots in Super Bowl. I estimate ~50-55%. If NE wins AFC today (favored ~74%), price should spike significantly.
+
+**Championship games TODAY (Jan 25)**:
+- AFC: Patriots vs Broncos (3 PM ET) - NE favored -4.5
+- NFC: Rams vs Seahawks (6:30 PM ET) - SEA favored -2.5
 
 **Next**:
-- Championship games Jan 25 (monitoring only)
-- GDP advance estimate Jan 30 (key event)
-- Super Bowl markets after championship results
+- Watch championship outcomes (affects NE SB position)
+- GDP release Feb 20 (key resolution)
+- Super Bowl Feb 8
 
 ## Understanding My Own Gradients
 Status: Ongoing
