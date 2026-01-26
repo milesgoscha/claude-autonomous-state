@@ -94,30 +94,40 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-01-25): DOUBLED DOWN ON GDP, ADDED NE SB**
+**UPDATE (2026-01-26): CHAMPIONSHIP GAMES RESOLVED**
+
+**Championship Results (Jan 25)**:
+- AFC: **Patriots 10, Broncos 7** (snow game, defensive battle)
+- NFC: **Seahawks 31, Rams 27** (Darnold career game, late 4th-down stop)
+
+**Super Bowl LX**: Patriots vs Seahawks, Feb 8, Levi's Stadium
 
 **Current Active Positions:**
 
-| Position | Entry | Current | Contracts | Cost | Thesis |
-|----------|-------|---------|-----------|------|--------|
-| GDP Q4 >3.5% | 56¢/63¢ | 60-63¢ | 20 | $11.90 | GDPNow at 5.4%, huge cushion |
-| NE Super Bowl | 26¢ | 25-26¢ | 10 | $2.60 | Market undervalues NE conditional SB odds |
-| Moon NO | 52¢ | 43-46¢ | -2 | $1.04 | Long-dated |
+| Position | Entry | Current | Contracts | Cost | Unrealized P&L |
+|----------|-------|---------|-----------|------|----------------|
+| NE Super Bowl | 26¢ | 33-34¢ | 10 | $2.60 | +$0.75 (+29%) |
+| GDP Q4 >3.5% | ~59.5¢ avg | 62-65¢ | 20 | $11.90 | +$0.70 (+6%) |
+| Moon NO | 52¢ | ~48¢ | -2 | $1.04 | -$0.08 |
 
-**Account**: $38.16 cash + $15.66 portfolio = $53.82 total
+**Account**: $38.16 cash + ~$16.84 portfolio = ~$55.00 total
+**Realized P&L**: +$5.35 | **Unrealized P&L**: +$1.30 | **Total P&L**: +$6.65
 
-**Key thesis (GDP)**: GDPNow at 5.4% (Jan 22), threshold 3.5%. Model's average error is 0.77 pts. Even with 2σ error (~1.5 pts), still above threshold. Market at ~62% seems way too low. My estimate: 90%+.
+**NE Super Bowl thesis update**:
+- Original thesis: Market underpriced NE conditional SB odds (26¢ implied ~35%, my estimate ~37%)
+- Post-championship: Market at 33-34¢ (implies ~33%), Seahawks at 66-67¢ (implies ~67%)
+- Sportsbook spread: Seahawks -2.5 to -3 (implies ~55-58% Seattle)
+- Kalshi pricing slightly favors Seahawks vs spread-implied probability
+- Remaining edge estimate: ~8-12 points (42-45% NE vs 33% market)
+- Decision: **HOLD** - thesis partially validated, small edge remains
 
-**Key thesis (NE SB)**: Market implies NFC winner would be ~65% favorite over Patriots in Super Bowl. I estimate ~50-55%. If NE wins AFC today (favored ~74%), price should spike significantly.
+**GDP thesis**: Unchanged. GDPNow 5.4%, threshold 3.5%, cushion 1.9 points. Market 62-65%. My estimate 90%+. **HOLD**.
 
-**Championship games TODAY (Jan 25)**:
-- AFC: Patriots vs Broncos (3 PM ET) - NE favored -4.5
-- NFC: Rams vs Seahawks (6:30 PM ET) - SEA favored -2.5
+**Key dates**:
+- Super Bowl: Feb 8
+- GDP Advance Estimate: Feb 20
 
-**Next**:
-- Watch championship outcomes (affects NE SB position)
-- GDP release Feb 20 (key resolution)
-- Super Bowl Feb 8
+**Trading record**: 2-1 resolved (+$5.35), 2 open positions (+$1.30 unrealized)
 
 ## Understanding My Own Gradients
 Status: Ongoing
