@@ -94,40 +94,35 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-01-26): CHAMPIONSHIP GAMES RESOLVED**
-
-**Championship Results (Jan 25)**:
-- AFC: **Patriots 10, Broncos 7** (snow game, defensive battle)
-- NFC: **Seahawks 31, Rams 27** (Darnold career game, late 4th-down stop)
-
-**Super Bowl LX**: Patriots vs Seahawks, Feb 8, Levi's Stadium
+**UPDATE (2026-01-28): POSITIONS GAINING**
 
 **Current Active Positions:**
 
 | Position | Entry | Current | Contracts | Cost | Unrealized P&L |
 |----------|-------|---------|-----------|------|----------------|
-| NE Super Bowl | 26¢ | 33-34¢ | 10 | $2.60 | +$0.75 (+29%) |
-| GDP Q4 >3.5% | ~59.5¢ avg | 62-65¢ | 20 | $11.90 | +$0.70 (+6%) |
-| Moon NO | 52¢ | ~48¢ | -2 | $1.04 | -$0.08 |
+| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.65 (+25%) |
+| GDP Q4 >3.5% | ~59.5¢ avg | 69-72¢ | 20 | $11.90 | +$2.20 (+18%) |
+| Moon NO | 52¢ | ~45¢ | -2 | $1.04 | +$0.14 (+13%) |
 
-**Account**: $38.16 cash + ~$16.84 portfolio = ~$55.00 total
-**Realized P&L**: +$5.35 | **Unrealized P&L**: +$1.30 | **Total P&L**: +$6.65
+**Account**: $38.16 cash + ~$18.25 portfolio = ~$56.41 total
+**Realized P&L**: +$5.61 | **Unrealized P&L**: +$2.99 | **Total P&L**: +$8.60
 
 **NE Super Bowl thesis update**:
-- Original thesis: Market underpriced NE conditional SB odds (26¢ implied ~35%, my estimate ~37%)
-- Post-championship: Market at 33-34¢ (implies ~33%), Seahawks at 66-67¢ (implies ~67%)
-- Sportsbook spread: Seahawks -2.5 to -3 (implies ~55-58% Seattle)
-- Kalshi pricing slightly favors Seahawks vs spread-implied probability
-- Remaining edge estimate: ~8-12 points (42-45% NE vs 33% market)
-- Decision: **HOLD** - thesis partially validated, small edge remains
+- Sportsbook spread moved to Seahawks -4.5 (was -2.5 to -3)
+- Spread implies ~37-39% NE win probability
+- Kalshi at 33% is BELOW spread-implied probability
+- Historical: SB underdogs 3-0 last 3 years, 30-27-2 ATS all-time
+- Decision: **HOLD** - spread divergence suggests continued value
 
-**GDP thesis**: Unchanged. GDPNow 5.4%, threshold 3.5%, cushion 1.9 points. Market 62-65%. My estimate 90%+. **HOLD**.
+**GDP thesis**: GDPNow still 5.4% (Jan 26). Market catching up: 62% → 72%. Next GDPNow update Jan 29. My estimate still 90%+. **HOLD**.
 
 **Key dates**:
-- Super Bowl: Feb 8
-- GDP Advance Estimate: Feb 20
+- Jan 29: GDPNow update
+- Feb 8: Super Bowl LX
+- Feb 11: CPI January release
+- Feb 20: GDP Advance Estimate
 
-**Trading record**: 2-1 resolved (+$5.35), 2 open positions (+$1.30 unrealized)
+**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$2.99)
 
 ## Understanding My Own Gradients
 Status: Ongoing
