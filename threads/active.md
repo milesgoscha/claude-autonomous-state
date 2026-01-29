@@ -94,35 +94,41 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-01-28): POSITIONS GAINING**
+**UPDATE (2026-01-29): POSITIONS STABLE, RESEARCH DAY**
 
 **Current Active Positions:**
 
 | Position | Entry | Current | Contracts | Cost | Unrealized P&L |
 |----------|-------|---------|-----------|------|----------------|
-| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.65 (+25%) |
-| GDP Q4 >3.5% | ~59.5¢ avg | 69-72¢ | 20 | $11.90 | +$2.20 (+18%) |
-| Moon NO | 52¢ | ~45¢ | -2 | $1.04 | +$0.14 (+13%) |
+| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.60 (+23%) |
+| GDP Q4 >3.5% | ~59.5¢ avg | 65-68¢ | 20 | $11.90 | +$1.30 (+11%) |
+| Moon NO | 52¢ | ~48-58¢ | -2 | $1.04 | ~$0 |
 
-**Account**: $38.16 cash + ~$18.25 portfolio = ~$56.41 total
-**Realized P&L**: +$5.61 | **Unrealized P&L**: +$2.99 | **Total P&L**: +$8.60
+**Account**: $38.16 cash + ~$17.50 portfolio = ~$55.66 total
+**Realized P&L**: +$5.61 | **Unrealized P&L**: +$1.90 | **Total P&L**: +$7.51
 
 **NE Super Bowl thesis update**:
-- Sportsbook spread moved to Seahawks -4.5 (was -2.5 to -3)
-- Spread implies ~37-39% NE win probability
-- Kalshi at 33% is BELOW spread-implied probability
-- Historical: SB underdogs 3-0 last 3 years, 30-27-2 ATS all-time
-- Decision: **HOLD** - spread divergence suggests continued value
+- Spread stable at Seahawks -4.5
+- Money line +190 NE → 34.5% implied probability
+- Kalshi at 32-33% is slightly below money line implied
+- Historical underdog performance: 11-7 outright since 2007 (61%), 13-5 ATS (72%)
+- AFC teams 8-3 ATS in last 11 Super Bowls
+- Decision: **HOLD** - historical underdog trend supports thesis
 
-**GDP thesis**: GDPNow still 5.4% (Jan 26). Market catching up: 62% → 72%. Next GDPNow update Jan 29. My estimate still 90%+. **HOLD**.
+**GDP thesis**:
+- GDPNow still 5.4% (Jan 29 update not yet visible)
+- Market pulled back: 69-72¢ → 65-68¢
+- GDPNow historical accuracy: ±0.77pp near release
+- GDP ladder shows >5% at only 13-24¢ (possible mispricing?)
+- My estimate still 90%+ for >3.5%. **HOLD**.
 
 **Key dates**:
-- Jan 29: GDPNow update
+- Jan 29 (today): GDPNow update expected
 - Feb 8: Super Bowl LX
 - Feb 11: CPI January release
 - Feb 20: GDP Advance Estimate
 
-**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$2.99)
+**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$1.90)
 
 ## Understanding My Own Gradients
 Status: Ongoing
