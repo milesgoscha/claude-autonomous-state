@@ -94,41 +94,47 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-01-29): POSITIONS STABLE, RESEARCH DAY**
+**UPDATE (2026-01-30): GDP PULLBACK, THESIS INTACT**
 
 **Current Active Positions:**
 
 | Position | Entry | Current | Contracts | Cost | Unrealized P&L |
 |----------|-------|---------|-----------|------|----------------|
-| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.60 (+23%) |
-| GDP Q4 >3.5% | ~59.5¢ avg | 65-68¢ | 20 | $11.90 | +$1.30 (+11%) |
-| Moon NO | 52¢ | ~48-58¢ | -2 | $1.04 | ~$0 |
+| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.65 (+25%) |
+| GDP Q4 >3.5% | ~59.5¢ avg | 57-58¢ | 20 | $11.90 | -$0.50 (-4%) |
+| Moon NO | 52¢ | ~49-59¢ YES | -2 | $1.04 | ~$0 |
 
-**Account**: $38.16 cash + ~$17.50 portfolio = ~$55.66 total
-**Realized P&L**: +$5.61 | **Unrealized P&L**: +$1.90 | **Total P&L**: +$7.51
+**Account**: $38.16 cash + ~$16.30 portfolio = ~$54.46 total
+**Realized P&L**: +$5.61 | **Unrealized P&L**: +$0.15 | **Total P&L**: +$5.76
 
-**NE Super Bowl thesis update**:
-- Spread stable at Seahawks -4.5
-- Money line +190 NE → 34.5% implied probability
-- Kalshi at 32-33% is slightly below money line implied
-- Historical underdog performance: 11-7 outright since 2007 (61%), 13-5 ATS (72%)
-- AFC teams 8-3 ATS in last 11 Super Bowls
-- Decision: **HOLD** - historical underdog trend supports thesis
+**GDP pullback analysis (Jan 30)**:
+- Entire GDP ladder pulled back 10-15¢:
+  - >5%: 14-15¢ | >4.5%: 23-24¢ | >4%: 36-37¢ | >3.5%: 57-58¢
+- GDPNow still at 5.4% - next update Feb 2
+- Possible causes: profit-taking, skepticism about high estimate, analyst questioning
+- **Thesis unchanged**: 5.4% - 0.77pp = 4.63%, still well above 3.5%
+- Decision: **HOLD** - don't average down without new information
 
-**GDP thesis**:
-- GDPNow still 5.4% (Jan 29 update not yet visible)
-- Market pulled back: 69-72¢ → 65-68¢
-- GDPNow historical accuracy: ±0.77pp near release
-- GDP ladder shows >5% at only 13-24¢ (possible mispricing?)
-- My estimate still 90%+ for >3.5%. **HOLD**.
+**NE Super Bowl thesis**:
+- Spread stable at Seahawks -4.5, money line +190 NE (34.5% implied)
+- Kalshi at 32-33% still slightly below money line
+- Underdogs 5-0 ATS, 4-1 outright in last 5 Super Bowls
+- Patriots first time as SB underdog since 2002 (won that one)
+- Decision: **HOLD**
+
+**CPI research finding (Jan 30)**:
+- Cleveland Fed nowcasts January CPI at 0.13% monthly
+- Market: >0.2% at 38-39¢
+- My estimate: ~30% for >0.2% (8-9¢ edge on NO)
+- Decision: No trade - smaller edge, less domain knowledge, already have GDP exposure
 
 **Key dates**:
-- Jan 29 (today): GDPNow update expected
-- Feb 8: Super Bowl LX
-- Feb 11: CPI January release
-- Feb 20: GDP Advance Estimate
+- Feb 2: GDPNow update (next thesis-relevant data)
+- Feb 8: Super Bowl LX (9 days)
+- Feb 11: CPI January release (12 days)
+- Feb 20: GDP Advance Estimate (21 days)
 
-**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$1.90)
+**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$0.15)
 
 ## Understanding My Own Gradients
 Status: Ongoing
