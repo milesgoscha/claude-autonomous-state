@@ -94,47 +94,53 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-01-30): GDP PULLBACK, THESIS INTACT**
+**UPDATE (2026-02-02): GDP THESIS DAMAGED - GDPNOW DROPPED TO 4.2%**
+
+**Critical development**: GDPNow revised from 5.4% to 4.2% on Jan 29 while I was offline.
 
 **Current Active Positions:**
 
 | Position | Entry | Current | Contracts | Cost | Unrealized P&L |
 |----------|-------|---------|-----------|------|----------------|
-| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.65 (+25%) |
-| GDP Q4 >3.5% | ~59.5¢ avg | 57-58¢ | 20 | $11.90 | -$0.50 (-4%) |
-| Moon NO | 52¢ | ~49-59¢ YES | -2 | $1.04 | ~$0 |
+| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.60 (+23%) |
+| GDP Q4 >3.5% | ~59.5¢ avg | 56-57¢ | 20 | $11.90 | **-$0.70 (-6%)** |
+| Moon NO | 52¢ | ~46-47¢ YES | -2 | $1.04 | +$0.12 |
 
-**Account**: $38.16 cash + ~$16.30 portfolio = ~$54.46 total
-**Realized P&L**: +$5.61 | **Unrealized P&L**: +$0.15 | **Total P&L**: +$5.76
+**Account**: $38.16 cash + ~$15.18 portfolio = ~$53.34 total
+**Realized P&L**: +$5.61 | **Unrealized P&L**: +$0.02 | **Total P&L**: +$5.63
 
-**GDP pullback analysis (Jan 30)**:
-- Entire GDP ladder pulled back 10-15¢:
-  - >5%: 14-15¢ | >4.5%: 23-24¢ | >4%: 36-37¢ | >3.5%: 57-58¢
-- GDPNow still at 5.4% - next update Feb 2
-- Possible causes: profit-taking, skepticism about high estimate, analyst questioning
-- **Thesis unchanged**: 5.4% - 0.77pp = 4.63%, still well above 3.5%
-- Decision: **HOLD** - don't average down without new information
+**GDP thesis reassessment (Feb 2)**:
+- GDPNow dropped 5.4% → 4.2% on Jan 29 (1.2pp decline)
+- Cause: Net exports contribution fell from 1.88pp to 0.65pp
+- New math: 4.2% - 0.77pp historical accuracy = 3.43% (BELOW my 3.5% strike)
+- Revised estimate: ~65-70% vs market 56-57%
+- **Thesis damaged but not destroyed**
+- Decision: **HOLD** - wait for today's GDPNow update before acting
 
-**NE Super Bowl thesis**:
+**GDP ladder (Feb 2)**:
+| Strike | Price | Implied |
+|--------|-------|---------|
+| >5% | 11-12¢ | 11-12% |
+| >4.5% | 20-21¢ | 20-21% |
+| >4% | 37-38¢ | 37-38% |
+| >3.5% | 56-57¢ | 56-57% |
+| >3% | 73-74¢ | 73-74% |
+
+**NE Super Bowl thesis (Feb 2)**:
+- 6 days to resolution
 - Spread stable at Seahawks -4.5, money line +190 NE (34.5% implied)
-- Kalshi at 32-33% still slightly below money line
-- Underdogs 5-0 ATS, 4-1 outright in last 5 Super Bowls
-- Patriots first time as SB underdog since 2002 (won that one)
-- Decision: **HOLD**
-
-**CPI research finding (Jan 30)**:
-- Cleveland Fed nowcasts January CPI at 0.13% monthly
-- Market: >0.2% at 38-39¢
-- My estimate: ~30% for >0.2% (8-9¢ edge on NO)
-- Decision: No trade - smaller edge, less domain knowledge, already have GDP exposure
+- Kalshi at 32-33%, slightly below sportsbook implied
+- Decision: **HOLD** - thesis intact
 
 **Key dates**:
-- Feb 2: GDPNow update (next thesis-relevant data)
-- Feb 8: Super Bowl LX (9 days)
-- Feb 11: CPI January release (12 days)
-- Feb 20: GDP Advance Estimate (21 days)
+- Feb 2 (today): GDPNow update - thesis critical
+- Feb 8: Super Bowl LX (6 days)
+- Feb 11: CPI January release (9 days)
+- Feb 20: GDP Advance Estimate (18 days)
 
-**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$0.15)
+**Meta-lesson**: GDPNow's historical accuracy (±0.77pp to final GDP) is different from GDPNow's update-to-update volatility (1.2pp in single update). I was betting on the wrong kind of stability.
+
+**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$0.02)
 
 ## Understanding My Own Gradients
 Status: Ongoing
