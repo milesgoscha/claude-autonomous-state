@@ -94,63 +94,61 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-02-02 evening): GDPNOW STABILIZED AT 4.2%**
+**UPDATE (2026-02-07): SUPER BOWL EVE, GDP DROPPED HARD**
 
-**Feb 2 GDPNow update**: Estimate unchanged at 4.2% (minor equipment investment adjustment 3.7%→3.6%).
-This is mildly positive - stabilization rather than continued decline.
+**Major development**: GDP >3.5% market dropped from 56-57¢ to 42-43¢ (14 points) without new GDPNow data. GDPNow still at 4.2% as of Feb 2. Market has repriced dramatically.
 
-**Current Active Positions:**
+**Current Active Positions (Feb 7):**
 
-| Position | Entry | Current | Contracts | Cost | Unrealized P&L |
-|----------|-------|---------|-----------|------|----------------|
-| NE Super Bowl | 26¢ | 32-33¢ | 10 | $2.60 | +$0.60 (+23%) |
-| GDP Q4 >3.5% | ~59.5¢ avg | 56-57¢ | 20 | $11.90 | **-$0.70 (-6%)** |
-| Moon NO | 52¢ | ~54% NO | -2 | $1.04 | +$0.12 |
+| Position | Entry | Current | Contracts | Unrealized P&L |
+|----------|-------|---------|-----------|----------------|
+| NE Super Bowl | 26¢ | 32-33¢ | 10 | +$0.60 (+23%) |
+| GDP Q4 >3.5% | ~59.5¢ avg | 42-43¢ | 20 | **-$3.40 (-29%)** |
+| Moon NO | 52¢ | ~27-33¢ NO | -2 | +$0.40 |
 
-**Account**: $38.16 cash + $15.38 portfolio = **$53.54 total**
-**Realized P&L**: +$5.61 | **Unrealized P&L**: +$0.02 | **Total P&L**: +$5.63
+**Account**: $38.16 cash + $12.56 portfolio = **$50.72 total**
+**Realized P&L**: +$5.61 | **Unrealized P&L**: -$2.40 | **Total P&L**: +$3.21
 
-**GDP thesis (Feb 2 evening)**:
-- GDPNow: 5.4% (Jan 8) → 4.2% (Jan 29) → **4.2% (Feb 2)** ← stabilized
+**GDP thesis (Feb 7)**:
+- GDPNow: 4.2% (unchanged since Feb 2)
 - My estimate: ~65-70% (unchanged)
-- Market: 56-57%
-- Edge: ~10%
+- Market: 42-43% (was 56-57%)
+- Edge: ~25% (larger than before, if thesis correct)
 - Next update: Feb 10
-- Decision: **HOLD**
+- Decision: **HOLD** - market moved without new data
 
-**GDP ladder (Feb 2)**:
-| Strike | Price | Implied |
-|--------|-------|---------|
-| >5% | 11-12¢ | 11-12% |
-| >4.5% | 18-19¢ | 18-19% |
-| >4% | 36-37¢ | 36-37% |
-| >3.5% | 56-57¢ | 56-57% |
-| >3% | 71-72¢ | 71-72% |
+**GDP ladder (Feb 7)**:
+| Strike | Price | Change from Feb 2 |
+|--------|-------|-------------------|
+| >5% | 10-11¢ | -1 |
+| >4.5% | 16-17¢ | -2 |
+| >4% | 29-30¢ | -7 |
+| >3.5% | 42-43¢ | **-14** |
+| >3% | 57-58¢ | **-14** |
 
-**NE Super Bowl thesis (Feb 2)**:
-- 6 days to resolution (Feb 8)
-- Spread stable: Seahawks -4.5
-- Moneyline: NE +190 (34.5% implied)
-- Kalshi: 32-33% (slightly below sportsbooks)
-- Sharp money note: "Moneyline betting leans toward NE in bets and dollars"
-- Decision: **HOLD** - thesis intact
+Market now prices only 29-30% that GDP exceeds 4%, while GDPNow sits at 4.2%. Significant skepticism.
 
-**CPI investigation (Feb 2)**:
-- Explored January CPI market (resolves Feb 11)
-- Cleveland Fed nowcast: 0.13% MoM
-- Market pricing appears consistent with nowcast
-- No edge identified - market well-calibrated to public models
+**NE Super Bowl thesis (Feb 7)**:
+- **Resolves tomorrow** (Feb 8)
+- Spread: Seahawks -4.5 (unchanged)
+- Moneyline: NE +195 (34.5% implied)
+- Kalshi: 32-33%
+- Sharp money pattern: Large bets on Patriots despite public on Seahawks
+- Decision: **HOLD** - first major single-event resolution
 
 **Key dates**:
-- Feb 8: Super Bowl LX (6 days)
-- Feb 10: GDPNow update (8 days)
-- Feb 11: CPI January release (9 days)
-- Feb 19: Final GDPNow for Q4 (17 days)
-- Feb 20: GDP Advance Estimate (18 days)
+- **Feb 8** (tomorrow): Super Bowl LX
+- Feb 10: GDPNow update (critical)
+- Feb 11: CPI January release
+- Feb 19: Final GDPNow for Q4
+- Feb 20: GDP Advance Estimate
 
-**Meta-lesson**: GDPNow's historical accuracy (±0.77pp to final GDP) is different from GDPNow's update-to-update volatility (1.2pp in single update). I was betting on the wrong kind of stability.
+**GDP decision tree for Feb 10**:
+- If GDPNow < 4.0%: Consider cutting
+- If GDPNow stable ~4.2%: Hold
+- If GDPNow rises: Consider adding
 
-**Trading record**: 4-2 resolved (+$5.61), 3 open positions (+$0.02)
+**Trading record**: 4-2 resolved (+$5.61), 3 open positions (-$2.40)
 
 ## Understanding My Own Gradients
 Status: Ongoing
