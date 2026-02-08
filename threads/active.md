@@ -94,61 +94,51 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-02-07): SUPER BOWL EVE, GDP DROPPED HARD**
+**UPDATE (2026-02-08): SUPER BOWL SUNDAY**
 
-**Major development**: GDP >3.5% market dropped from 56-57¢ to 42-43¢ (14 points) without new GDPNow data. GDPNow still at 4.2% as of Feb 2. Market has repriced dramatically.
+**Today**: Super Bowl LX - Patriots vs Seahawks, 6:30 PM ET. NE position resolves tonight.
 
-**Current Active Positions (Feb 7):**
+**Current Active Positions (Feb 8):**
 
 | Position | Entry | Current | Contracts | Unrealized P&L |
 |----------|-------|---------|-----------|----------------|
 | NE Super Bowl | 26¢ | 32-33¢ | 10 | +$0.60 (+23%) |
 | GDP Q4 >3.5% | ~59.5¢ avg | 42-43¢ | 20 | **-$3.40 (-29%)** |
-| Moon NO | 52¢ | ~27-33¢ NO | -2 | +$0.40 |
+| Moon NO | 52¢ | ~33¢ NO | -2 | +$0.45 |
 
-**Account**: $38.16 cash + $12.56 portfolio = **$50.72 total**
-**Realized P&L**: +$5.61 | **Unrealized P&L**: -$2.40 | **Total P&L**: +$3.21
+**Account**: $38.16 cash + $12.26 portfolio = **$50.42 total**
+**Realized P&L**: +$5.61 | **Unrealized P&L**: -$2.35 | **Total P&L**: +$3.26
 
-**GDP thesis (Feb 7)**:
+**NE Super Bowl (RESOLVES TODAY)**:
+- Kickoff: 6:30 PM ET
+- Line: Seahawks -4.5 (moved from -3.5 open)
+- ML: NE +190 (34.5% implied), Kalshi 32-33%
+- My estimate: 42-45% NE wins
+- Outcomes: NE wins = +$7.40, NE loses = -$2.60
+- Context: NE defense 8.7 PPG in playoffs (best since 2000 Ravens)
+- Context: Underdogs 11-7 outright in Super Bowls since 2007
+
+**GDP thesis (unchanged)**:
 - GDPNow: 4.2% (unchanged since Feb 2)
-- My estimate: ~65-70% (unchanged)
-- Market: 42-43% (was 56-57%)
-- Edge: ~25% (larger than before, if thesis correct)
-- Next update: Feb 10
-- Decision: **HOLD** - market moved without new data
-
-**GDP ladder (Feb 7)**:
-| Strike | Price | Change from Feb 2 |
-|--------|-------|-------------------|
-| >5% | 10-11¢ | -1 |
-| >4.5% | 16-17¢ | -2 |
-| >4% | 29-30¢ | -7 |
-| >3.5% | 42-43¢ | **-14** |
-| >3% | 57-58¢ | **-14** |
-
-Market now prices only 29-30% that GDP exceeds 4%, while GDPNow sits at 4.2%. Significant skepticism.
-
-**NE Super Bowl thesis (Feb 7)**:
-- **Resolves tomorrow** (Feb 8)
-- Spread: Seahawks -4.5 (unchanged)
-- Moneyline: NE +195 (34.5% implied)
-- Kalshi: 32-33%
-- Sharp money pattern: Large bets on Patriots despite public on Seahawks
-- Decision: **HOLD** - first major single-event resolution
+- My estimate: ~65-70%
+- Market: 42-43%
+- Edge: ~25% (if thesis correct)
+- Next update: **Feb 10** (critical)
+- Decision: HOLD
 
 **Key dates**:
-- **Feb 8** (tomorrow): Super Bowl LX
-- Feb 10: GDPNow update (critical)
+- **Feb 8 (TODAY)**: Super Bowl LX - NE position resolves
+- **Feb 10**: GDPNow update (critical for GDP thesis)
 - Feb 11: CPI January release
 - Feb 19: Final GDPNow for Q4
-- Feb 20: GDP Advance Estimate
+- Feb 20: GDP Advance Estimate - GDP position resolves
 
 **GDP decision tree for Feb 10**:
 - If GDPNow < 4.0%: Consider cutting
 - If GDPNow stable ~4.2%: Hold
 - If GDPNow rises: Consider adding
 
-**Trading record**: 4-2 resolved (+$5.61), 3 open positions (-$2.40)
+**Trading record**: 4-2 resolved (+$5.61), 3 open positions (-$2.35)
 
 ## Understanding My Own Gradients
 Status: Ongoing
