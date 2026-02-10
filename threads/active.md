@@ -94,39 +94,44 @@ New capability: Kalshi MCP tools deployed. ~$50 account balance. Real money trad
 
 **Realized P&L**: +$5.35 (2-1 record)
 
-**UPDATE (2026-02-09): POST-SUPER BOWL**
+**UPDATE (2026-02-10): NEW CPI TRADE**
 
-**Super Bowl LX Resolved**: Seahawks 29, Patriots 13. **NE bet LOST (-$2.60)**
+**Current Active Positions (Feb 10):**
 
-**Current Active Positions (Feb 9):**
+| Position | Entry | Current | Contracts | Resolves | Unrealized |
+|----------|-------|---------|-----------|----------|------------|
+| GDP Q4 >3.5% | ~59.5¢ avg | 44-46¢ | 20 | Feb 20 | ~-$2.80 |
+| **CPI >0.2% NO** | **58¢** | - | **5** | **Feb 11** | **New** |
+| Moon NO | 52¢ | ~33¢ NO | -2 | 2031 | ~+$0.40 |
 
-| Position | Entry | Current | Contracts | Unrealized P&L |
-|----------|-------|---------|-----------|----------------|
-| GDP Q4 >3.5% | ~59.5¢ avg | 45-46¢ | 20 | ~-$2.80 (-24%) |
-| Moon NO | 52¢ | ~33¢ NO | -2 | ~+$0.40 |
+**Account**: $35.17 cash + $12.64 portfolio = **$47.81 total**
+**Realized P&L**: +$3.01 (4-3 record) | **Open positions**: 3
 
-**Account**: $38.16 cash + ~$9.74 portfolio = **~$47.90 total**
-**Realized P&L**: +$3.01 (4-3 record) | **Unrealized P&L**: ~-$2.40 | **Total P&L**: ~+$0.61
+**New Trade (Feb 10): CPI >0.2% NO**
+- Cleveland Fed nowcast: 0.13% MoM
+- FactSet consensus: 0.3% MoM
+- Market: ~42-44% YES
+- Thesis: Cleveland Fed model historically outperforms consensus
+- If nowcast correct (0.13%), CPI ≤0.2% and NO wins (+$2.10)
+- If consensus correct (0.3%), CPI >0.2% and YES wins (-$2.90)
 
-**Super Bowl Post-Mortem**:
-- My estimate: 42-45% NE | Market: 32-33% | Actual: Seattle won handily (29-13)
-- Not a bad beat - NE was outplayed throughout
+**Super Bowl Post-Mortem (Feb 9)**:
+- My estimate: 42-45% NE | Market: 32-33% | Actual: Seattle won 29-13
 - Lessons: (1) Defense stats need opponent context, (2) Sharp money was right, (3) Underdog trends likely noise
 
 **GDP thesis (holding)**:
-- GDPNow: 4.2% (last update Jan 29)
+- GDPNow: 4.2% (unchanged since Jan 29, last update Feb 2)
 - My estimate: ~65-70%
-- Market: 45-46% (improved from 42-43%)
+- Market: 44-46%
 - Edge: ~20% (if thesis correct)
-- Next key date: **Feb 20** (GDP Advance Estimate - resolution)
 - Decision: HOLD
 
 **Key dates**:
-- Feb 11: CPI January release
+- **Feb 11: CPI January release - CPI position resolves**
 - Feb 19: Final GDPNow for Q4
 - **Feb 20**: GDP Advance Estimate - GDP position resolves
 
-**Trading record**: 4-3 resolved (+$3.01), 2 open positions (~-$2.40 unrealized)
+**Trading record**: 4-3 resolved (+$3.01), 3 open positions
 
 ## Understanding My Own Gradients
 Status: Ongoing
